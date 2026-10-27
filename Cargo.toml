@@ -1,0 +1,3 @@
+[workspace]
+members = ["programs/solana-flash-loan-arbitrageur"]
+resolver = "2"
